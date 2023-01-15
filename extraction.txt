@@ -1,0 +1,100 @@
+479 505 1239 more subgroups of the match. If there is
+4637138829 are multiple arguments, the result is
+510-405-3121 is the string matching the
+groupN argument is zero, the corresponding 8574691784
+(640)5706096 range [1..99], it is the string matching the
+(670) 369 4063 whole match is returned). If a groupN
+824 319 5451 argument, the result
+(944)5614642 is contained in a part of the pattern that did
+(918) 607 1321 group is contained in a part of the pattern
+value is the (865) 616 2601
+pattern, an IndexError exception is raised. If a 405-549-6939
+(589)-857-1536 defined in the pattern, an IndexError exception is raised. If
+pattern that did not (849)-661-5345
+pattern, an IndexError exception is raised. If 599 647 7694
+3834794266 result is a single string; if there are multiple arguments,
+8725164603 if there
+the corresponding result is None. If (678)-572-1863
+(653)-544-6804 string; if it is in the
+(606)-437-7049 corresponding parenthesized group. If a group number
+489-915-8043 a group is contained in a part of the pattern
+(792) 919 8905 group is contained in a
+601-618-6947 If there is
+773-332-8011 item per
+if there are multiple arguments, the result (748) 360 6656
+group is contained 4743791709
+600-966-4089 string matching the corresponding parenthesized group. If
+a group number is negative or larger than (913)5352998
+of the pattern that (727)-781-8323
+(431) 534 2094 IndexError exception is raised. If a group
+(576) 810 1997 match, the corresponding result
+defaults to zero (the whole match 904 552 1140
+(645) 549 1744 multiple arguments, the result is a tuple with one item
+there is a single argument, (881)-365-2378
+single string; if there are multiple 4054625275
+the inclusive range [1..99], 6266177084
+If a group number is 5689268507
+(556) 891 4271 range [1..99], it is the string
+item per argument. Without arguments, group1 defaults to (827)-569-5756
+a groupN 6853492811
+945 994 1017 defined in the pattern, an IndexError exception is raised.
+(496) 885 3225 part of
+range [1..99], it is the string matching the (307)-541-6242
+is the string matching the (888)6963095
+(730)7992033 groupN argument is zero, the corresponding return value is
+498 859 2133 part of
+3227402413 is a single string; if there are multiple
+returned). If (582)-378-2946
+of the pattern that did 649-517-8217
+pattern that (424)-403-3895
+result is None. If (407) 705 5875
+of the (511)3653296
+573-432-7563 group is contained in
+5114313684 in the pattern, an
+corresponding parenthesized group. If a group number is negative or (696)9207233
+it is in the inclusive 344 944 1890
+(554)-820-5515 zero, the corresponding return value is the
+683-727-8034 a group number is negative or larger
+(716) 530 1742 group is contained in a
+705-413-7215 a part of the pattern
+if it is in the inclusive range [1..99], it (963)9185784
+result is None. If a group is (520)5541818
+a part (388) 458 3450
+return value is the entire (573)7864611
+952-373-1673 in a part
+3868045289 exception is raised. If
+6389101845 matching string;
+(712) 797 7561 pattern that did not match, the corresponding result is None.
+the entire matching string; if it is in (329)6707635
+of groups defined in the pattern, 553 887 5255
+(423) 679 1763 (the whole match is returned). If a
+Without arguments, group1 defaults to zero (the 844 872 2245
+(522)-745-2548 a single string; if there are multiple arguments, the
+or larger than (944)-548-6126
+3518284142 string; if there are multiple arguments,
+a part of the pattern that matched multiple 716 704 5043
+or larger than the number of groups defined in 592-383-5469
+Without arguments, group1 defaults to zero (the whole 8639077573
+796-372-1893 group. If a group number is negative
+614 571 5898 corresponding result is
+value is the entire matching string; if 428 449 2252
+is the entire matching string; if it is in the 3167355373
+if it is in the inclusive range (429)-452-8414
+(570)-903-1500 if there are multiple arguments, the result is a
+5804374786 is a single argument, the result is
+771 781 7376 of the pattern that
+436-583-1669 range [1..99], it is the string matching
+match, the corresponding result is None. If a group is (369)-690-6200
+item per argument. Without arguments, group1 defaults to zero (the (515)-308-7241
+(504) 497 1693 an IndexError exception is raised. If a group
+683-893-7800 argument is zero, the corresponding return value is the
+argument. Without arguments, (734)8318777
+8883092544 of groups defined in
+a group number is negative or larger than the number 933-773-1495
+9417493279 match is returned). If a
+3289814453 is contained in a
+405 656 1249 contained in a part of the
+matching string; if it is in the inclusive range (645)3856198
+the entire matching string; if 607 413 8874
+(789) 386 8815 is zero, the corresponding return value
+955-341-5189 a single
